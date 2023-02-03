@@ -1,5 +1,5 @@
 package org.example;
-class Solution1 {
+class Solution {
     public boolean isAlienSorted(String[] words, String order) {
         int[] charMap = new int[26];
 
